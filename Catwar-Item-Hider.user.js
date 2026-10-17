@@ -7,6 +7,8 @@
 // @match        *://catwar.su/cw3/*
 // @match        *://catwar.net/cw3/*
 // @match        *://cw3.space/*
+// @updateURL    https://raw.githubusercontent.com/dreaminshadows/Catwar-Item-Hider/blob/main/Catwar-Item-Hider.user.js
+// @downloadURL  https://raw.githubusercontent.com/dreaminshadows/Catwar-Item-Hider/blob/main/Catwar-Item-Hider.user.js
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
