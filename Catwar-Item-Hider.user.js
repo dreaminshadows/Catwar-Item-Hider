@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         Catwar Item Hider
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  Скрывает предметы во рту по ID предмета. Предложения по улучшению писать автору мода.
 // @author       dreaminshadows | Бейлиз (https://catwar.net/cat1638466)
 // @match        *://catwar.su/cw3/*
 // @match        *://catwar.net/cw3/*
 // @match        *://cw3.space/*
-// @updateURL    https://raw.githubusercontent.com/dreaminshadows/Catwar-Item-Hider/blob/main/Catwar-Item-Hider.user.js
-// @downloadURL  https://raw.githubusercontent.com/dreaminshadows/Catwar-Item-Hider/blob/main/Catwar-Item-Hider.user.js
+// @updateURL    https://raw.githubusercontent.com/dreaminshadows/Catwar-Item-Hider/main/Catwar-Item-Hider.user.js
+// @downloadURL  https://raw.githubusercontent.com/dreaminshadows/Catwar-Item-Hider/main/Catwar-Item-Hider.user.js
 // @run-at       document-end
 // @grant        none
 // ==/UserScript==
